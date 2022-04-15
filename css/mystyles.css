@@ -1,0 +1,33 @@
+.bottom {
+    text-align: center;
+    font-size:large;
+    color: grey;
+    padding-bottom: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.headers {
+    font-size: 100px;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 45px;
+}
+
+.subheaders {
+    text-align: center;
+    color: lightgray;
+    font-weight: lighter;
+    font-size: 25px;
+
+}
+
+.body {
+    background-color: lightgrey;
+}
+
+.video {
+    display:block; 
+    margin:0 auto;
+ }
+
